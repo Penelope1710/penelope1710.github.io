@@ -1,0 +1,31 @@
+body {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-image: url("photos/fond_image_site.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 0 20px 20px 20px;
+}
+
+.presentation-chant {
+    margin: 60px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 50px;
+}
+
+.image-flottante {
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 10px;
+  }
+
+
+.presentation-chant p {
+    font-size: 1.3em;
+    text-align: justify;
+}
+
+.presentation-chant li {
+    text-decoration: none;
+}
